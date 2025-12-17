@@ -16,7 +16,7 @@
   * *Ruptura (Break):* O vestido rasga na lateral da perna até a cintura, o véu cai sobre os olhos, ela se ajoelha abraçando o próprio corpo.  
 * **Kit MVP:**  
   * *Básico:* **Toque de Seda** \- Dano leve de Luz.  
-  * *Tática:* **Voto de Fidelidade** \- Redireciona ataques das vizinhas para si por 1 turno. Aumenta a própria Graça.  
+  * *Tática:* **Voto de Fidelidade** (CD: 3 turnos) \- Redireciona ataques das vizinhas para si por 1 turno. Aumenta a própria Graça.  
   * *Passiva:* **Mártir** \- Ganha 1 PC sempre que recebe um Crítico.  
   * *Ultimate:* **Lua de Mel Eterna** \- Cura total da party e remove todos os debuffs. Animação de um beijo soprado que vira uma chuva de pétalas.
 
@@ -32,7 +32,7 @@
   * *Ruptura (Break):* Óculos caem e quebram, o bikini desamarra nas costas (seguro apenas por magia/sorte), expressão de choque e vergonha.  
 * **Kit MVP:**  
   * *Básico:* **Chamada Oral** \- Dano de Sombra.  
-  * *Tática:* **Detenção** \- O inimigo alvo perde 1 Ponto de Clímax e sua vez na timeline é atrasada.  
+  * *Tática:* **Detenção** (CD: 2 turnos) \- O inimigo alvo perde 1 PC do banco e é atrasado na fila.  
   * *Passiva:* **Olhar 43** \- Inimigos que atacam Lylian têm chance de errar (Miss).  
   * *Ultimate:* **Alucinação Coletiva** \- Todos os inimigos atacam a si mesmos no próximo turno. A tela fica rosa-choque com corações partidos.
 
@@ -48,7 +48,7 @@
   * *Ruptura (Break):* O maiô cede na alça, ela cobre o peito com o braço, sentada na borda da piscina de lava, exausta.  
 * **Kit MVP:**  
   * *Básico:* **Braçada** \- Dano Físico rápido.  
-  * *Tática:* **Aquecimento** \- Sacrifica 10% do próprio HP para aumentar o ATK em 50%.  
+  * *Tática:* **Aquecimento** (CD: 2 turnos) \- Sacrifica 10% do próprio HP para aumentar o ATK em 50%.  
   * *Passiva:* **Adrenalina** \- Quanto menor o HP, maior a Velocidade (Presença).  
   * *Ultimate:* **Tsunami de Magma** \- Dano massivo em área. Animação de um mergulho que explode a tela em vapor.
 
@@ -64,7 +64,7 @@
   * *Ruptura (Break):* Cai no chão, o corset se abre, a maquiagem borra com lágrimas negras.  
 * **Kit MVP:**  
   * *Básico:* **Sussurro** \- Dano de Sombra que ignora defesa.  
-  * *Tática:* **Maldição da Beleza** \- Reduz a DEF e o ATK de um alvo.  
+  * *Tática:* **Maldição da Beleza** (CD: 3 turnos) \- Reduz a DEF e o ATK de um alvo por 2 turnos.  
   * *Passiva:* **Sadismo** \- Recupera HP quando um inimigo entra em Ruptura (Break).  
   * *Ultimate:* **Evaporação** \- Dano em área. Se matar um inimigo, ganha turno extra.
 
@@ -82,7 +82,7 @@
   * *Ruptura (Break):* A saia rasga revelando a perna toda, o cabelo solta do coque caindo no rosto, ela segura o peito ofegante.  
 * **Kit MVP:**  
   * *Básico:* **Zapateado** \- Dano de Fogo que aumenta a cada uso consecutivo.  
-  * *Tática:* **Olé\!** \- Entra em postura de "Contra-Ataque" por 1 turno (Esquiva do próximo ataque e devolve o dano).  
+  * *Tática:* **Olé\!** (CD: 3 turnos) \- Entra em postura de "Contra-Ataque" por 1 turno (Esquiva do próximo ataque e devolve o dano).  
   * *Passiva:* **Coração Ardente** \- Ganha ATK extra se houver outra carta de Paixão na mesa.  
   * *Ultimate:* **Dança da Morte** \- Dano massivo em alvo único. Se matar, reseta o cooldown.
 
@@ -98,7 +98,7 @@
   * *Ruptura (Break):* O látex rasga revelando circuitos dourados por baixo da "pele", vazando fluido refrigerante azul.  
 * **Kit MVP:**  
   * *Básico:* **Coleta de Sangue** \- Dano leve, cura a si mesma em 50% do dano.  
-  * *Tática:* **Estimulante** \- Remove todos os debuffs de uma aliada e concede "Imunidade" por 1 turno.  
+  * *Tática:* **Estimulante** (CD: 3 turnos) \- Remove todos os debuffs de uma aliada e concede "Imunidade" por 1 turno.  
   * *Passiva:* **Esterilização** \- Se Valentine estiver com HP cheio, curas da party são 20% mais fortes.  
   * *Ultimate:* **Cirurgia de Emergência** \- Ressuscita uma Musa caída com 1 de HP.
 
@@ -114,7 +114,7 @@
   * *Ruptura (Break):* Cai do dado, orelhas baixas e tristes, meia-calça rasgada nos joelhos, tentando recolher as fichas do chão.  
 * **Kit MVP:**  
   * *Básico:* **Lançar Dados** \- Dano aleatório (1 a 6 hits).  
-  * *Tática:* **Aposta Alta** \- Gasta 2 PC. Rola uma chance de 50/50: Ou cura totalmente a party ou causa dano na própria party.  
+  * *Tática:* **Aposta Alta** (CD: 2 turnos) \- Rola uma chance de 50/50: Ou cura totalmente a party ou causa dano na própria party.  
   * *Passiva:* **Sorte de Principiante** \- Começa a batalha com \+20% de Esquiva (Graça).  
   * *Ultimate:* **Jackpot** \- Dano de Caos em todos os inimigos. O dano é multiplicado pelo número do turno atual (Max x10).
 
@@ -130,9 +130,9 @@
   * *Ruptura (Break):* O macacão cai da cintura revelando roupa íntima improvisada, ela tenta se cobrir com a ferramenta, suja e vulnerável.  
 * **Kit MVP:**  
   * *Básico:* **Marretada** \- Dano Físico pesado. Quebra escudos com mais facilidade.  
-  * *Tática:* **Overclock** \- Aumenta o ATK de uma aliada "Cyber" ou "Caos", mas ela toma dano a cada turno.  
+  * *Tática:* **Overclock** (CD: 2 turnos) \- Aumenta o ATK de uma aliada "Cyber" ou "Caos", mas ela toma dano a cada turno.  
   * *Passiva:* **Manutenção** \- Repara o próprio Escudo de Postura em 1 ponto se não atacar no turno.  
-  * *Ultimate:* **Combustão Espontânea** \- Incendeia o campo. Todas as Musas tomam dano, mas as de Paixão ganham Boost grátis.
+  * *Ultimate:* **Combustão Espontânea** \- Incendeia o campo. Todas as Musas (aliadas e inimigas) tomam dano, mas as de Paixão ganham Boost grátis.
 
 ## **Lote 3: Expansão B**
 
@@ -148,7 +148,7 @@
   * *Ruptura (Break):* De joelhos, quepe caído, a jaqueta rasgada no ombro, olhar furioso e humilhado.  
 * **Kit MVP:**  
   * *Básico:* **Disciplina** \- Dano físico. Se o alvo já agiu no turno, causa dano extra.  
-  * *Tática:* **Ordem Unida** \- Todas as aliadas atacam o alvo selecionado com 50% de dano (Gang Up).  
+  * *Tática:* **Ordem Unida** (CD: 4 turnos) \- Todas as aliadas atacam o alvo selecionado com 50% de dano (Gang Up).  
   * *Passiva:* **Supremacia** \- Enquanto Scarlett estiver com HP acima de 50%, todas as cartas "Autoridade" ganham \+10% de ATK.  
   * *Ultimate:* **Bombardeio Tático** \- Chama um ataque aéreo. Causa dano massivo e deixa o campo em chamas (Dano por turno em todos).
 
@@ -164,7 +164,7 @@
   * *Ruptura (Break):* As cordas se soltam, ela cai no chão, máscara rasgada revelando um sorriso triste, tatuagens parando de se mover.  
 * **Kit MVP:**  
   * *Básico:* **Picada** \- Dano leve \+ Veneno (Dano contínuo por 3 turnos).  
-  * *Tática:* **Cortina de Fumaça** \- Concede "Evasão Perfeita" (Desvia do próximo ataque) a si mesma.  
+  * *Tática:* **Cortina de Fumaça** (CD: 3 turnos) \- Concede "Evasão Perfeita" (Desvia do próximo ataque) a si mesma.  
   * *Passiva:* **Sangue Frio** \- Causa 30% a mais de dano em inimigos envenenados.  
   * *Ultimate:* **Beijo da Morte** \- Executa instantaneamente um inimigo com menos de 20% de HP.
 
@@ -180,7 +180,7 @@
   * *Ruptura (Break):* A projeção falha (glitch), partes do corpo ficam pixeladas ou transparentes, expressão de choro digital (lágrimas de código).  
 * **Kit MVP:**  
   * *Básico:* **Nota Aguda** \- Dano Sônico (Luz) em todos os inimigos. Dano baixo, mas quebra escudos de área.  
-  * *Tática:* **Encore\!** \- Uma aliada que já agiu ganha mais uma ação imediata neste turno (Gasta 2 PC).  
+  * *Tática:* **Encore\!** (CD: 4 turnos) \- Uma aliada que já agiu ganha mais uma ação imediata neste turno.  
   * *Passiva:* **Hype** \- A cada turno que passa, o ganho de PC do jogador aumenta temporariamente.  
   * *Ultimate:* **Turnê Mundial** \- "Stuna" (Atordoa) todos os inimigos com um show de luzes por 1 turno.
 
@@ -196,7 +196,7 @@
   * *Ruptura (Break):* O trono desmorona, ela cai de costas, os tentáculos se recolhem com medo, cobrindo o rosto e o corpo.  
 * **Kit MVP:**  
   * *Básico:* **Chicote de Dados** \- Dano de Caos. Rouba 1 ponto de Escudo do inimigo e dá para Medusa.  
-  * *Tática:* **Petrificar Sistema** \- O inimigo alvo não pode usar Habilidades Especiais (apenas ataque básico) por 2 turnos.  
+  * *Tática:* **Petrificar Sistema** (CD: 3 turnos) \- O inimigo alvo não pode usar Habilidades Especiais (apenas ataque básico) por 2 turnos.  
   * *Passiva:* **Reciclagem** \- Se uma carta (amiga ou inimiga) for destruída, Medusa cura 20% de HP.  
   * *Ultimate:* **Jardim de Pedra** \- Transforma o terreno. Todos os inimigos perdem \-2 de Velocidade e tomam dano de veneno ácido.
 
@@ -214,7 +214,7 @@
   * *Ruptura (Break):* Os vitrais se estilhaçam, rachaduras aparecem em sua pele de vidro, luz vazando pelas fendas como "sangue".  
 * **Kit MVP:**  
   * *Básico:* **Refração** \- Dano de Luz. Se a vida estiver cheia, reflete dano em um segundo inimigo.  
-  * *Tática:* **Santuário de Cristal** \- Cria um escudo na Musa aliada com menos vida. Se o escudo quebrar, causa dano de estilhaços.  
+  * *Tática:* **Santuário de Cristal** (CD: 3 turnos) \- Cria um escudo na Musa aliada com menos vida. Se o escudo quebrar, causa dano de estilhaços.  
   * *Passiva:* **Transparência** \- Imune a Veneno e Sangramento (não tem sangue orgânico).  
   * *Ultimate:* **Juízo Final** \- Consome todo o Escudo de Postura restante para causar dano massivo baseado na defesa.
 
@@ -230,7 +230,7 @@
   * *Ruptura (Break):* A renda rasga no busto, o véu cai, ela perde a compostura e mostra presas vampíricas ou olhos bestiais.  
 * **Kit MVP:**  
   * *Básico:* **Fio da Meada** \- Dano de Sombra. Reduz a Velocidade do alvo (Slow).  
-  * *Tática:* **Herança Maldita** \- Marca um inimigo. Se ele morrer em 2 turnos, Dominique ganha os buffs dele.  
+  * *Tática:* **Herança Maldita** (CD: 2 turnos) \- Marca um inimigo. Se ele morrer em 2 turnos, Dominique ganha os buffs dele.  
   * *Passiva:* **Luto** \- Ganha \+1 PC a cada vez que uma Musa (aliada ou inimiga) é derrotada.  
   * *Ultimate:* **Teia do Destino** \- Prende todos os inimigos (não podem trocar de posição) e drena vida deles a cada turno.
 
@@ -246,7 +246,7 @@
   * *Ruptura (Break):* Cai sobre um joelho, sangrando no ombro, mas sorrindo com selvageria (gostando da dor).  
 * **Kit MVP:**  
   * *Básico:* **Golpe de Escudo** \- Dano Físico \+ Stun leve (Chance de pular turno do inimigo).  
-  * *Tática:* **Rugido da Vitória** \- Provoca todos os inimigos (Taunt) e aumenta massivamente sua própria Defesa.  
+  * *Tática:* **Rugido da Vitória** (CD: 3 turnos) \- Provoca todos os inimigos (Taunt) e aumenta massivamente sua própria Defesa.  
   * *Passiva:* **Sangue Quente** \- Recupera 10% de vida sempre que causa um Break em alguém.  
   * *Ultimate:* **Execução Pública** \- Um golpe único de dano extremo. Se matar, a plateia "joga rosas" (cura a party inteira).
 
@@ -262,6 +262,6 @@
   * *Ruptura (Break):* O headset cai revelando olhos cansados com olheiras, ela tenta desesperadamente reconectar os cabos, em pânico.  
 * **Kit MVP:**  
   * *Básico:* **Lag Spike** \- Dano de Caos. Tem 20% de chance de fazer o inimigo repetir a última ação.  
-  * *Tática:* **Cheat Code** \- Gasta 3 PC. Reseta o Cooldown da Ultimate de uma aliada (Exceto a si mesma).  
-  * *Passiva:* **Bug** \- 10% de chance de ignorar qualquer dano recebido (o ataque "atravessa" o modelo 3D).  
+  * *Tática:* **Cheat Code** (CD: 4 turnos) \- Reseta o Cooldown da Ultimate de uma aliada (Exceto a si mesma) e **gera \+1 PC**.  
+  * *Passiva:* **Bug** \- 10% de chance ignorar qualquer dano recebido.  
   * *Ultimate:* **Blue Screen of Death** \- "Crasha" o jogo do oponente. Remove todos os buffs inimigos, zera os PCs deles e embaralha a posição das cartas na mesa.
